@@ -1,4 +1,4 @@
-# Dash Drug Discovery
+# Dash Drug Discovery(Fun hacks)
 
 ## About this app
 
